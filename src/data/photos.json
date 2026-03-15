@@ -1,0 +1,74 @@
+[
+  {
+    "title": "First Light",
+    "location": "Big Sur, California",
+    "date": "2024-11-14",
+    "tags": ["landscape", "coast", "sunrise"],
+    "publicId": "samples/landscapes/nature-mountains",
+    "description": "Low clouds breaking over the ridge as the first light cut through.",
+    "alt": "Sunrise over a mountain ridge with soft cloud cover"
+  },
+  {
+    "title": "Night Transfer",
+    "location": "Shinjuku, Tokyo",
+    "date": "2025-10-22",
+    "tags": ["street", "night", "city"],
+    "publicId": "samples/people/jazz",
+    "description": "A brief pause between trains with sodium light bouncing across wet pavement.",
+    "alt": "Person standing in a city scene at night"
+  },
+  {
+    "title": "Quiet Geometry",
+    "location": "Palm Springs, California",
+    "date": "2025-10-03",
+    "tags": ["architecture", "minimal", "daylight"],
+    "publicId": "samples/landscapes/beach-boat",
+    "description": "Sharp shadows and hard lines under a high desert noon.",
+    "alt": "Minimal scene with crisp lines and bright daylight"
+  },
+  {
+    "title": "Through Glass",
+    "location": "Soho, New York",
+    "date": "2025-07-18",
+    "tags": ["street", "portrait", "blackandwhite"],
+    "publicId": "samples/people/bicycle",
+    "description": "Layered reflections created a second city over the first.",
+    "alt": "Urban portrait scene with layered reflections"
+  },
+  {
+    "title": "Salt Wind",
+    "location": "Reykjavik, Iceland",
+    "date": "2025-06-05",
+    "tags": ["travel", "coast", "moody"],
+    "publicId": "samples/landscapes/architecture-signs",
+    "description": "Cold air, soft rain, and a horizon line that never quite settled.",
+    "alt": "Coastal architecture under overcast skies"
+  },
+  {
+    "title": "Signal Red",
+    "location": "Mission District, San Francisco",
+    "date": "2025-04-27",
+    "tags": ["street", "color", "city"],
+    "publicId": "samples/food/pot-mussels",
+    "description": "One saturated accent carrying the entire frame.",
+    "alt": "High contrast image with a dominant red tone"
+  },
+  {
+    "title": "Second Story",
+    "location": "Lisbon, Portugal",
+    "date": "2025-03-11",
+    "tags": ["travel", "architecture", "goldenhour"],
+    "publicId": "samples/ecommerce/accessories-bag",
+    "description": "Late-afternoon light pulling texture from old painted walls.",
+    "alt": "Historic building facade lit by warm evening light"
+  },
+  {
+    "title": "Tidal Quiet",
+    "location": "Oregon Coast",
+    "date": "2025-01-20",
+    "tags": ["landscape", "longexposure", "minimal"],
+    "publicId": "samples/animals/reindeer",
+    "description": "A long exposure that turned surf into a smooth metallic field.",
+    "alt": "Minimal seascape with smooth water from long exposure"
+  }
+]
